@@ -1,14 +1,6 @@
-# Advanced Zoom Apps Sample
+# AICareSync App
 
-Advanced Sample covers most complex scenarios that might be needed in apps.
-
-App has reference implementation for:
-- Authentication flows: marketplace authentication, in-client authentication, third-party auth providers
-- REST API calls and retrieving user information
-- Zoom Apps SDK methods and events, including role-based permissions
-- Guest mode
-
-Tech stack: react js, node.js, express, docker (optional)
+Utilizes the zoom advanced app sample
 
 ## Usage
 
